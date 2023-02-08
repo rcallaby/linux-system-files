@@ -24,8 +24,11 @@ We use the "fork-and-pull" model for accepting contributions.
 + Make sure to reference any relevant issues or feature requests in the pull request description.
 + Please keep in mind that all code submissions will be reviewed by a maintainer and may be subject to modification in order to meet the project's coding standards or to address any issues that are identified during the review process.
 
+
 ## Code of Conduct
 
-All contributors are expected to adhere to the project's code of conduct. This can be found in the CODE_OF_CONDUCT.md file in the repository.
+All contributors are expected to adhere to the project's code of conduct. This can be found in the [CODE_OF_CONDUCT.md](https://github.com/rcallaby/linux-system-files/blob/main/CODE_OF_CONDUCT.md) file in the repository.
 
 Thanks for your contribution!
+
+
