@@ -12,8 +12,8 @@
 #include <linux/icmpv6.h>
 #include <linux/inet.h>
 
-MODULE_LICENSE("GPL");
-MODULE_AUTHOR("RichardCallaby");
+MODULE_LICENSE("MIT");
+MODULE_AUTHOR("Richard Callaby");
 MODULE_DESCRIPTION("Extended Kernel-Level Packet Sniffer (IPv4/IPv6 + Payloads)");
 MODULE_VERSION("0.01");
 
